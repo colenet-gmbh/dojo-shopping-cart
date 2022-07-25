@@ -5,6 +5,9 @@ export default defineConfig({
       port: 3000
     },
     test: {
-        exclude: [...configDefaults.exclude, 'tests/*'],
+        exclude: [...configDefaults.exclude, 'e2e/*'],
+        environment: 'happy-dom',
+
     },
+
 })

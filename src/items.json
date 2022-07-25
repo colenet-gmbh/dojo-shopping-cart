@@ -5,14 +5,16 @@
     "discount": 0.35,
     "currency": "EUR",
     "unit": "Stück",
-    "stock": 6
+    "stock": 6,
+    "img": "https://ais.kochbar.de/kbrezept/284068_1006571/1200x1200/hundekekse-rezept-bild-nr-3.jpg"
   },
   {
     "name": "Bio Äpfel",
     "price": 3.20,
     "currency": "EUR",
     "unit": "Beutel",
-    "stock": 30
+    "stock": 30,
+    "img": "https://www.herzapfelhof.de/out/pictures/master/product/1/dem01118_pic1_0004.jpg"
   },
   {
     "name": "Banane",
@@ -20,20 +22,26 @@
     "discount": 0.15,
     "currency": "EUR",
     "unit": "Stück",
-    "stock": 78
+    "stock": 78,
+    "img": "https://www.kochschule.de/sites/default/files/images/kochwissen/440/banane.jpg"
+
   },
   {
     "name": "Kartoffeln",
     "price": 1.20,
     "currency": "EUR",
     "unit": "Beutel",
-    "stock": 78
+    "stock": 78,
+    "img": "https://amp.fitforfun.de/files/images/201909/1/kartoffeln-auf-einem-tisch,379854_3x2_xl.jpg"
+
   },
   {
     "name": "Messer",
     "price": 29.99,
     "currency": "EUR",
     "unit": "Stück",
-    "stock": 3
+    "stock": 3,
+    "img": "https://cdn.engelbert-strauss.de/assets/wf/images/Original/product/1.Release.7181140/Messer_6er_Pack-10630-2-637630727362134063.jpg"
+
   }
 ]
